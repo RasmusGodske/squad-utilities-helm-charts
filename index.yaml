@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bm-scanner:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-11T15:39:27.69343061Z"
+    description: A Helm chart for Kubernetes
+    digest: 83037a51655ac5cf4bc224ff311d603eb7759a7f9a92f73bb44d123997768673
+    name: bm-scanner
+    type: application
+    urls:
+    - bm-scanner-0.0.2.tgz
+    version: 0.0.2
+generated: "2022-09-11T15:39:27.692552901Z"
