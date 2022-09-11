@@ -3,7 +3,17 @@ entries:
   bm-scanner:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-11T15:39:27.69343061Z"
+    created: "2022-09-11T16:27:14.989653842Z"
+    description: A Helm chart for Kubernetes
+    digest: f3224733b3ba3178ace1ca0c284adb5fbf9179bce01ab150537ccfdece6e697e
+    name: bm-scanner
+    type: application
+    urls:
+    - bm-scanner-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-11T16:27:14.989396539Z"
     description: A Helm chart for Kubernetes
     digest: 83037a51655ac5cf4bc224ff311d603eb7759a7f9a92f73bb44d123997768673
     name: bm-scanner
@@ -11,4 +21,4 @@ entries:
     urls:
     - bm-scanner-0.0.2.tgz
     version: 0.0.2
-generated: "2022-09-11T15:39:27.692552901Z"
+generated: "2022-09-11T16:27:14.988958633Z"
